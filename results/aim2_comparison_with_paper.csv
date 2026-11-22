@@ -1,0 +1,5 @@
+"metric","ours","paper"
+"Signature genes found on array","155 of 157","157"
+"MetA - MetB score, 30 vs 0 ng/mL: direction","towards MetA","towards MetA (~60% MetB -> ~70% MetA)"
+"MetA - MetB score, 30 vs 0 ng/mL: p-value","3.6e-06","< 0.001"
+"Highest-MetA group","Dox_30","Dox_30"

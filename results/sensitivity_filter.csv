@@ -1,0 +1,6 @@
+"setting","annotated_only","low_expr_quantile","probesets_tested","de_any_contrast","de_30_vs_0","highlighted_down_30","pct_of_paper_7656"
+"No filtering",FALSE,NA,138745,12995,4301,"6 of 6",170
+"Annotated only",TRUE,NA,25564,8991,3864,"6 of 6",117
+"Annotated + low-expr 10%",TRUE,0.1,23605,9098,3977,"6 of 6",119
+"Annotated + low-expr 20% (main)",TRUE,0.2,21122,9122,4146,"6 of 6",119
+"Annotated + low-expr 30%",TRUE,0.3,18562,9014,4305,"6 of 6",118

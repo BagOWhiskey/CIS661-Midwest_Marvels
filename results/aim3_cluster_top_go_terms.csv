@@ -1,0 +1,5 @@
+"cluster","n_probesets","pattern","n_go_terms","top_terms"
+1,4018,"up with miR-375 (30 vs 0 ng/mL)",41,"cytoskeleton-dependent intracellular transport; protein localization to plasma membrane; post-Golgi vesicle-mediated transport; protein localization to membrane; protein localization to cell periphery"
+2,1661,"up with miR-375 (30 vs 0 ng/mL)",134,"oxidative phosphorylation; mitochondrial translation; mitochondrial respiratory chain complex assembly; mitochondrial gene expression; mitochondrion organization"
+3,2696,"down with miR-375 (30 vs 0 ng/mL)",196,"nuclear division; organelle fission; mitotic nuclear division; DNA replication; chromosome segregation"
+4,747,"down with miR-375 (30 vs 0 ng/mL)",0,""

@@ -1,0 +1,5 @@
+"metric","ours","paper"
+"Predicted targets among DE genes","144","1058"
+"Stringently predicted targets among DE genes","144","120"
+"Highlighted genes that are conserved-site targets","6 of 6","6 of 6"
+"Targets enriched among genes down at 30 vs 0 (Fisher p)","2.86e-14","not reported"

@@ -1,0 +1,5 @@
+"targets","direction","targets_in_set","set_size","pct_targets_in_set","pct_targets_background","odds_ratio","p_value"
+"any site","down",69,2080,3.3,1.3,3.2941220145151,2.86440713692962e-14
+"any site","up",17,2024,0.8,1.3,0.640819908013801,0.0748392772836352
+"conserved-site","down",69,2080,3.3,1.3,3.2941220145151,2.86440713692962e-14
+"conserved-site","up",17,2024,0.8,1.3,0.640819908013801,0.0748392772836352

@@ -1,0 +1,70 @@
+"SYMBOL","GENENAME","logFC","adj.P.Val"
+"RBM24","RNA binding motif protein 24",-1.67842920621575,5.05323015590728e-09
+"YAP1","Yes1 associated transcriptional regulator",-1.66566012654615,1.76559936033803e-09
+"ACSL3","acyl-CoA synthetase long chain family member 3",-1.56484858605069,1.08731257587217e-09
+"RMDN3","regulator of microtubule dynamics 3",-1.34363292665928,5.05323015590728e-09
+"SLC7A11","solute carrier family 7 member 11",-1.33698844989746,8.57702493141107e-08
+"MXI1","MAX interactor 1, dimerization protein",-1.18252175259919,4.34560002573496e-08
+"CHSY1","chondroitin sulfate synthase 1",-1.11791974276899,7.26774839497564e-07
+"USP1","ubiquitin specific peptidase 1",-1.02265186095054,2.02957166376922e-07
+"QKI","QKI, KH domain containing RNA binding",-1.0185568335073,3.39640713913627e-07
+"ARAP2","ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2",-1.00252615789269,0.000456639645496837
+"CORO2A","coronin 2A",-0.887893175071085,4.28925085156663e-06
+"MAL2","mal, T cell differentiation protein 2",-0.882701927605448,1.76165996481859e-07
+"JUND","JunD proto-oncogene, AP-1 transcription factor subunit",-0.874263318170989,4.12936361280162e-05
+"MOB1A","MOB kinase activator 1A",-0.873971801543096,2.55055054561694e-07
+"HOXA5","homeobox A5",-0.866104337300921,0.000354403500981963
+"HERPUD1","homocysteine inducible ER protein with ubiquitin like domain 1",-0.847088123730643,3.75448264004855e-07
+"XPR1","xenotropic and polytropic retrovirus receptor 1",-0.836898388120826,4.56312061448197e-07
+"LSM12","LSM12 homolog",-0.818510922121202,1.57792624678234e-06
+"SAR1A","secretion associated Ras related GTPase 1A",-0.800272294792761,1.64345471209148e-06
+"NAT10","N-acetyltransferase 10",-0.782049325227772,6.17991655634846e-05
+"DESI1","desumoylating isopeptidase 1",-0.769230014067109,0.000593202591817107
+"PLEKHA3","pleckstrin homology domain containing A3",-0.763250549837171,1.32605002462179e-05
+"EPB41L2","erythrocyte membrane protein band 4.1 like 2",-0.753708287727653,0.000476462767818654
+"CCDC117","coiled-coil domain containing 117",-0.750972706130632,9.35192690238943e-06
+"PHLDA1","pleckstrin homology like domain family A member 1",-0.743094973648073,1.30112947547549e-05
+"RBPJ","recombination signal binding protein for immunoglobulin kappa J region",-0.735741834036329,0.000164943065045482
+"RNF126","ring finger protein 126",-0.729995688233624,1.50185215934124e-05
+"CADM1","cell adhesion molecule 1",-0.72424770178208,0.00424411620012566
+"PACSIN1","protein kinase C and casein kinase substrate in neurons 1",-0.70800105172575,0.00374525734941152
+"ZFP36L2","ZFP36 like 2 zinc finger CCCH-type",-0.694408899071165,0.00184651798108315
+"FKBP5","FKBP prolyl isomerase 5",-0.691871037649848,1.4172751898523e-06
+"UBE3A","ubiquitin protein ligase E3A",-0.675791960749658,5.41738249224454e-06
+"TNPO3","transportin 3",-0.601106927078522,0.000663617583625394
+"TMEM65","transmembrane protein 65",-0.594744805678717,0.00370616396173371
+"YWHAZ","tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta",-0.594330509607726,5.41738249224454e-06
+"DNAJC16","DnaJ heat shock protein family (Hsp40) member C16",-0.593246018112868,0.000663617583625394
+"ENAH","ENAH actin regulator",-0.592526943519854,7.78143954648967e-05
+"MBNL1","muscleblind like splicing regulator 1",-0.592184990064297,1.43610536749801e-05
+"KLF5","KLF transcription factor 5",-0.5753637360031,9.21157707684062e-05
+"MLLT1","MLLT1 super elongation complex subunit",-0.572469836168082,0.00136838730066241
+"RPN1","ribophorin I",-0.568827809646516,1.64989016883169e-05
+"SLC31A1","solute carrier family 31 member 1",-0.564307433830734,5.70157399720133e-05
+"SPAG9","sperm associated antigen 9",-0.549915967062184,8.90800781083123e-05
+"TSC22D2","TSC22 domain family member 2",-0.541982637456091,0.000450685682771794
+"SKI","SKI proto-oncogene",-0.526635491157887,0.00149006074065425
+"UBE2E2","ubiquitin conjugating enzyme E2 E2",-0.525048887114522,8.93888907559416e-05
+"SLC16A2","solute carrier family 16 member 2",-0.514465313483322,0.0243038354202842
+"WWC2","WW and C2 domain containing 2",-0.513701403577283,0.0186901978777795
+"AEBP2","AE binding protein 2",-0.496819895012255,0.000862786885067756
+"TCF12","transcription factor 12",-0.455074447060216,0.00187738168797225
+"TIMM8A","translocase of inner mitochondrial membrane 8A",-0.441858735907756,0.0158872320147269
+"CTBP2","C-terminal binding protein 2",-0.437683290407399,0.00235313310307718
+"FZD4","frizzled class receptor 4",-0.433163290473486,0.00895654006406833
+"RASSF8","Ras association domain family member 8",-0.432017241216275,0.00483452050951988
+"SENP2","SUMO specific peptidase 2",-0.42820045291452,0.00502475893617417
+"AKIRIN1","akirin 1",-0.394029795543357,0.00322456892070494
+"NFIX","nuclear factor I X",-0.362503624625568,0.00172689227726169
+"EIF4H","eukaryotic translation initiation factor 4H",-0.361112732980107,0.00169232234034163
+"BCORL1","BCL6 corepressor like 1",-0.360087897721405,0.0211279946155509
+"SFXN1","sideroflexin 1",-0.347344918403467,0.00339809440117327
+"EIF4G3","eukaryotic translation initiation factor 4 gamma 3",-0.344162469166667,0.00400358827259885
+"LRP5","LDL receptor related protein 5",-0.294738249876525,0.0186968458521422
+"SERBP1","SERPINE1 mRNA binding protein 1",-0.276613926935557,0.00824046624377376
+"CBX2","chromobox 2",-0.265639108638936,0.0481400534480088
+"FAM168B","family with sequence similarity 168 member B",-0.258196456781716,0.0429152365354123
+"HNRNPD","heterogeneous nuclear ribonucleoprotein D",-0.245092404614621,0.0398876104983805
+"SP1","Sp1 transcription factor",-0.236140611570431,0.0314835181120218
+"CAST","calpastatin",-0.228544921744888,0.0290724048153615
+"CSNK2A1","casein kinase 2 alpha 1",-0.213241793416575,0.0497038450903142

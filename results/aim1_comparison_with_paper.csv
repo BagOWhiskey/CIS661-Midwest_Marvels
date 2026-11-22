@@ -1,0 +1,5 @@
+"metric","ours","paper"
+"Probesets tested","21122","not reported"
+"DE in >= 1 pairwise contrast (adj.P < 0.05)","9122","7656"
+"DE by moderated F-test (adj.P < 0.05)","7384","not reported"
+"Highlighted genes down at adj.P < 0.05 (30 vs 0 ng/mL)","6 of 6","6 of 6"
